@@ -12,7 +12,26 @@
 }
 
 .textoFrase{
+    padding-left: 24px;
+    background: #761B13 url(./assets/imagens/pergaminho.png) no-repeat left center;
     font-style: italic;
     color: #dd7b22;
     text-align: center;
 }
+
+.btn {
+    justify-content: center;
+    align-items: center; 
+    background: #dd7b22 url(./assets/imagens/icon-biscoito2.png) no-repeat left center;
+    border-radius: 15px; 
+    border: none;
+    padding: 5px 5px 5px 25px;
+    color: #761B13;
+}
+.btn:hover{
+    border: 1px solid #dd7b22;
+    background-color: #761B13;
+    color: #dd7b22;
+    cursor: pointer;
+}
+

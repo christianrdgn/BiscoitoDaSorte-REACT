@@ -6,7 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #761B13 url(./assets/bg-china.jpg) no-repeat center;
+  background: #761B13 url(./assets/imagens/bg-china.jpg) no-repeat center top;
 }
 
 code {
